@@ -1,0 +1,2 @@
+# gastos
+control de gastos
